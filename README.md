@@ -1,2 +1,2 @@
 # MyFirebaseApp
-Android + Firebase Email/Password Authentication | Course
+Android + Firebase Email/Password Authentication | Course Project
